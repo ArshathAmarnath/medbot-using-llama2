@@ -1,2 +1,3 @@
 create a new file in the same workspace where you have created the input and output files and name it 'data'
-if you have changed the files name then create a new input path with the name you have given into the input file
+if you have changed the files name then create a new input path with the name you have given into the input file.
+then add a pdf file of a book which you want your bot to read inside the file.

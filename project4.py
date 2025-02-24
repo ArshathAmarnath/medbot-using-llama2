@@ -6,7 +6,7 @@ from langchain_community.vectorstores import Chroma
 DATA_PATH = 'data/'
 DB_CHROMA_PATH ='vectorstore/db_chroma'
 
-#now creating vector database
+#creating vector database
 def create_vector_db():
     loader = DirectoryLoader(DATA_PATH,
                              glob='*.pdf',
